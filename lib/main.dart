@@ -58,11 +58,12 @@ class _MyHomePageState extends State<MyHomePage> {
           
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            const Text(
-              'You need to pushed the button this many times:',
-            ),
+
+            
+
             Text(
-              '${_counter+2}',
+              'ali from main',
+
               style: Theme.of(context).textTheme.headlineMedium,
             ),
             
