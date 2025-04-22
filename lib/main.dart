@@ -63,6 +63,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
             Text(
               'ali from main',
+
               style: Theme.of(context).textTheme.headlineMedium,
             ),
             
