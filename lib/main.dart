@@ -62,7 +62,7 @@ class _MyHomePageState extends State<MyHomePage> {
               'You need to pushed the button this many times:',
             ),
             Text(
-              '${_counter+1}',
+              '${_counter+2}',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
             Text(
